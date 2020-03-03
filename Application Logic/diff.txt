@@ -1,0 +1,10 @@
+
+In line number 35 of your output:
+The output should be:
+*** OUT OF RANGE *** <Enter a number between 100 and 500>: 501
+But your output is: 
+>*** OUT OF RANGE *** <Enter a number between 100 and 500>: 501
+^
+|
+Professor's character ASCII code: hex(2a), dec(42)
+un-matched character ASCII code: hex(3e), dec(62)
