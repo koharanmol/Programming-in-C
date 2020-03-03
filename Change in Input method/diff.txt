@@ -1,0 +1,10 @@
+
+In line number 52 of your output:
+The output should be:
+Do you want to enter a middle initial(s)? (y or n): y
+But your output is: 
+Do you want to enter a middle initial(s)? (y or n): y√
+                                                     ^
+-----------------------------------------------------|
+Professor's character ASCII code: hex(d), dec(13)
+un-matched character ASCII code: hex(ffffffc3), dec(-61)
